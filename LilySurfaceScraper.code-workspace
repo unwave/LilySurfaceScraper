@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"languageTool.enabled": false,
+		"search.exclude":{
+			"blender/LilySurfaceScraper/site-packages": true,
+			"LICENSE.md": true,
+			"README.md": true,
+			".github": true
+		}
+	}
+}
